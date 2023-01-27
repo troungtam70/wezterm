@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>io.github.troungtam70</groupId>
   <artifactId>wezterm</artifactId>
-  <version>2.0.6-SNAPSHOT</version>
+  <version>2.0.7-SNAPSHOT</version>
   <name>wezterm</name>
   <description>blah blah</description>
   <url>https://github.com/troungtam70/wezterm</url>
